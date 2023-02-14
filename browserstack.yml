@@ -1,0 +1,8 @@
+userName: mirckens_PWynRO
+accessKey: rSy4zsxyCyXgxjVYoRd4
+framework: serenity
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 103.0
